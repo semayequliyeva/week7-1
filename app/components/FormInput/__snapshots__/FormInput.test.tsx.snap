@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`FormInput xetasiz veziyyetin gorunusu deyismeyib (snapshot) 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-col gap-1"
+  >
+    <label
+      class="text-sm font-medium"
+      for="email-input"
+    >
+      Email
+    </label>
+    <input
+      aria-invalid="false"
+      class="rounded border px-3 py-2"
+      id="email-input"
+      name="email"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;

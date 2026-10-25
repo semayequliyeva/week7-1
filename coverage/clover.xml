@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1792929598501" clover="3.2.0">
+  <project timestamp="1792929598502" name="All files">
+    <metrics statements="41" coveredstatements="41" conditionals="21" coveredconditionals="21" methods="14" coveredmethods="14" elements="76" coveredelements="76" complexity="0" loc="41" ncloc="41" packages="3" files="3" classes="3"/>
+    <package name="DataList">
+      <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5"/>
+      <file name="DataList.tsx" path="C:\Users\user\OneDrive\İş masası\week7-1\app\components\DataList\DataList.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="11" type="stmt"/>
+        <line num="20" count="11" type="stmt"/>
+        <line num="22" count="11" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="11" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="37" count="11" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="42" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="64" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="FormInput">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="FormInput.tsx" path="C:\Users\user\OneDrive\İş masası\week7-1\app\components\FormInput\FormInput.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="23" count="14" type="stmt"/>
+        <line num="24" count="14" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Modal">
+      <metrics statements="18" coveredstatements="18" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7"/>
+      <file name="Modal.tsx" path="C:\Users\user\OneDrive\İş masası\week7-1\app\components\Modal\Modal.tsx">
+        <metrics statements="18" coveredstatements="18" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="31" count="8" type="stmt"/>
+        <line num="32" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="7" type="stmt"/>
+        <line num="35" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="7" type="stmt"/>
+        <line num="42" count="7" type="stmt"/>
+        <line num="46" count="8" type="stmt"/>
+        <line num="47" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="54" count="8" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
